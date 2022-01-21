@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from odoo.addons.report_xlsx.report.report_xlsx import ReportXlsx
+# from odoo.addons.report_xlsx.report.report_xlsx import ReportXlsx
 # import StringIO
 # import base64
 
